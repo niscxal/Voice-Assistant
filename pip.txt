@@ -3,3 +3,4 @@ pywhatkit
 PyAudio
 pyttsx3
 pyjokes
+setuptools
